@@ -27,3 +27,5 @@ Para que la aplicación pueda compilar y ser ejecutada se deben seguir los sigui
 1. Descargar el repositorio.
 2. Instalar Cocoa-pods. 
 > pod install
+3. Abrir el workspace.
+> MiAguilaTest.xcworkspace
