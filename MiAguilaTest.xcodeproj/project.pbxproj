@@ -26,6 +26,7 @@
 		5308AA83231A028F00A71CA6 /* SpeedView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5308AA82231A028F00A71CA6 /* SpeedView.xib */; };
 		5308AA87231A344200A71CA6 /* LaunchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5308AA86231A344200A71CA6 /* LaunchViewController.swift */; };
 		5308AA8A231A36D300A71CA6 /* map-location.json in Resources */ = {isa = PBXBuildFile; fileRef = 5308AA89231A36D300A71CA6 /* map-location.json */; };
+		5308AA8C231A529F00A71CA6 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5308AA8B231A529E00A71CA6 /* README.md */; };
 		E335BB732D7911074CA612BB /* Pods_MiAguilaTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BF9AA2E4EB3085B868C21BB1 /* Pods_MiAguilaTest.framework */; };
 /* End PBXBuildFile section */
 
@@ -51,6 +52,7 @@
 		5308AA82231A028F00A71CA6 /* SpeedView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SpeedView.xib; sourceTree = "<group>"; };
 		5308AA86231A344200A71CA6 /* LaunchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchViewController.swift; sourceTree = "<group>"; };
 		5308AA89231A36D300A71CA6 /* map-location.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "map-location.json"; sourceTree = "<group>"; };
+		5308AA8B231A529E00A71CA6 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		BF9AA2E4EB3085B868C21BB1 /* Pods_MiAguilaTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MiAguilaTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED30635460C84E27C798F9EB /* Pods-MiAguilaTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MiAguilaTest.release.xcconfig"; path = "Pods/Target Support Files/Pods-MiAguilaTest/Pods-MiAguilaTest.release.xcconfig"; sourceTree = "<group>"; };
 		FDD7FFE9AE80B841690C04E1 /* Pods-MiAguilaTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MiAguilaTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MiAguilaTest/Pods-MiAguilaTest.debug.xcconfig"; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		5308AA4323199EA800A71CA6 = {
 			isa = PBXGroup;
 			children = (
+				5308AA8B231A529E00A71CA6 /* README.md */,
 				5308AA4E23199EA800A71CA6 /* MiAguilaTest */,
 				5308AA4D23199EA800A71CA6 /* Products */,
 				CC55BBF1CE12851C058A4BE3 /* Pods */,
@@ -247,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5308AA8C231A529F00A71CA6 /* README.md in Resources */,
 				5308AA5A23199EAB00A71CA6 /* LaunchScreen.storyboard in Resources */,
 				5308AA5723199EAB00A71CA6 /* Assets.xcassets in Resources */,
 				5308AA83231A028F00A71CA6 /* SpeedView.xib in Resources */,
