@@ -25,4 +25,5 @@ Esta solución fue desarrollada exclusivamente para iphone y no se añadió sopo
 
 Para que la aplicación pueda compilar y ser ejecutada se deben seguir los siguientes pasos:
 1. **Descargar el repositorio**.
-2. **Instalar Cocoa-pods**. > pod install
+2. **Instalar Cocoa-pods**. 
+> pod install
