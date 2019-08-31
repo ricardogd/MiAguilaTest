@@ -5,7 +5,7 @@ Este repositorio contiene una aplicación que da solución a un reto ténico ela
 1- Mostrar la posicón en tiempo real de un móvil siguiendo una ruta, añadiendo marcadores con cada ubicación sin eliminar las ubicaciones previas y haciendo uso de GPS y SDKs de mapas
 2- Mostrar la velocidad del usuario en un view sobre el mapa implementado
 
-##Solución entregada
+## Solución entregada
 
 Para dar solución al reto anteriormente planteado, se realizó una app que se puede dividir de la siguiente forma:
 1- LaunchScreen: Pantalla en la cuál se muestra una leve animación presentando la aplicación
@@ -21,7 +21,7 @@ Para dar solución al reto anteriormente planteado, se realizó una app que se p
 
 Esta solución fue desarrollada exclusivamente para iphone y no se añadió soporte para iPad. 
 
-##Funcionamiento
+## Funcionamiento
 
 Para que la aplicación pueda compilar y ser ejecutada se deben seguir los siguientes pasos:
 1- Descargar el repositorio
