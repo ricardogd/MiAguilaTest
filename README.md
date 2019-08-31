@@ -8,7 +8,7 @@ Este repositorio contiene una aplicación que da solución a un reto ténico ela
 ## Solución entregada
 
 Para dar solución al reto anteriormente planteado, se realizó una app que se puede dividir de la siguiente forma:
-1. ### LaunchScreen: Pantalla en la cuál se muestra una leve animación presentando la aplicación
+1. ### LaunchScreen ###: Pantalla en la cuál se muestra una leve animación presentando la aplicación
 2. HomeScreen: Pantalla de inicio de la aplicación donde se lista la opción de mapa a visializar y cuenta un una sección de settings
 3. SettingsScreen: Pantalla en la cuál se detallan los puntos de inicio y fin para los cuales se debe seguir la ruta en el mapa, además de un pibote de distancia el cuál indica la frecuencia del reporte de la ubicación de los datos. Estos parámetros pueden ser modificados en ésta pantalla y serán almacenados en la aplicación.
 4. MapViewScreen: Pantalla que muestra el mapa y con él los puntos de inicio y fin así como la ruta trazada entre los puntos y el view que indica la velocidad del usuario. En ésta pantalla se entrega una gran cantidad de información adicional que se puede apreciar al seleccionar cada uno de los marcadores sobre la ruta.
